@@ -10,6 +10,7 @@ describe("To Check The Console Logs", () => {
           indvds.shift();
           indvds.shift();
           return indvds.join(" ")       ;
+          console.log("hello world");
       })
   
       console.log("---output1---");
