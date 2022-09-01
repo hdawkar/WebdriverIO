@@ -9,7 +9,7 @@ describe("To Check The Console Logs", () => {
           var indvds = seps.split(" ");
           indvds.shift();
           indvds.shift();
-          return indvds.join(" ");
+          return indvds.join(" ")       ;
       })
   
       console.log("---output1---");
